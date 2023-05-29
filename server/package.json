@@ -5,6 +5,8 @@
   "version": "1.0.0",
   
   "main": "index.js",
+  
+  "build": "npm run build",
    
   
   "scripts": {
